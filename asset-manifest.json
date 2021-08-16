@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Remade_Test_Task/static/css/main.744bd1c2.chunk.css",
+    "main.js": "/Remade_Test_Task/static/js/main.f5b25627.chunk.js",
+    "main.js.map": "/Remade_Test_Task/static/js/main.f5b25627.chunk.js.map",
+    "runtime-main.js": "/Remade_Test_Task/static/js/runtime-main.5f65c28f.js",
+    "runtime-main.js.map": "/Remade_Test_Task/static/js/runtime-main.5f65c28f.js.map",
+    "static/js/2.0c1f0e63.chunk.js": "/Remade_Test_Task/static/js/2.0c1f0e63.chunk.js",
+    "static/js/2.0c1f0e63.chunk.js.map": "/Remade_Test_Task/static/js/2.0c1f0e63.chunk.js.map",
+    "static/js/3.e8d6775e.chunk.js": "/Remade_Test_Task/static/js/3.e8d6775e.chunk.js",
+    "static/js/3.e8d6775e.chunk.js.map": "/Remade_Test_Task/static/js/3.e8d6775e.chunk.js.map",
+    "index.html": "/Remade_Test_Task/index.html",
+    "static/css/main.744bd1c2.chunk.css.map": "/Remade_Test_Task/static/css/main.744bd1c2.chunk.css.map",
+    "static/js/2.0c1f0e63.chunk.js.LICENSE.txt": "/Remade_Test_Task/static/js/2.0c1f0e63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f65c28f.js",
+    "static/js/2.0c1f0e63.chunk.js",
+    "static/css/main.744bd1c2.chunk.css",
+    "static/js/main.f5b25627.chunk.js"
+  ]
+}
