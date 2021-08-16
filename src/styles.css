@@ -1,0 +1,22 @@
+.selected{
+    background-color: rgb(107, 200, 250);
+}
+.not_selected{
+    background-color: white;
+}
+.mt{
+    margin-top: 17px;
+    margin-left: 30px;
+}
+.mr{
+    margin-right: 10px;
+}
+.card-text>p{
+    margin: -5px 0;
+}
+.fl{
+    float: left;
+}
+.ml{
+    margin-left: 20px;
+}
